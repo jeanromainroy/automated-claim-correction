@@ -1,0 +1,197 @@
+[
+    {
+        "ID": "3514",
+        "Name": "Ministry of Foreign Affairs of the Russian Federation",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "mfa_russia"
+            }
+        ]
+    },
+    {
+        "ID": "3511",
+        "Name": "Russian Embassy UK",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "RussianEmbassy"
+            }
+        ]
+    },
+    {
+        "ID": "3515",
+        "Name": "RT",
+        "MainType": "foreign",
+        "SubType": "media",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "rt_com"
+            }
+        ]
+    },
+    {
+        "ID": "3516",
+        "Name": "Sputnik News",
+        "MainType": "foreign",
+        "SubType": "media",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "sputnikint"
+            }
+        ]
+    },
+    {
+        "ID": "3545",
+        "Name": "Chay Bowes",
+        "MainType": "foreign",
+        "SubType": "journalist",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "BowesChay"
+            }
+        ]
+    },
+    {
+        "ID": "3528",
+        "Name": "Dmitry Polyanskiy",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "Dpol_un"
+            }
+        ]
+    },
+    {
+        "ID": "3534",
+        "Name": "TASS",
+        "MainType": "foreign",
+        "SubType": "media",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "tassagency_en"
+            }
+        ]
+    },
+    {
+        "ID": "3512",
+        "Name": "Dmitry Medvedev",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "MedvedevRussiaE"
+            }
+        ]
+    },
+    {
+        "ID": "3529",
+        "Name": "Russian Embassy Canada",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "RussianEmbassyC"
+            }
+        ]
+    },
+    {
+        "ID": "110002",
+        "Name": "Russian Embassy South Africa",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "EmbassyofRussia"
+            }
+        ]
+    },
+    {
+        "ID": "110003",
+        "Name": "Mikhail Ulyanov",
+        "MainType": "foreign",
+        "SubType": "politician",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "Amb_Ulyanov"
+            }
+        ]
+    },
+    {
+        "ID": "11012003",
+        "Name": "Russia at the United Nations",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "RussiaUN"
+            }
+        ]
+    },
+    {
+        "ID": "110703",
+        "Name": "Russia Embassy France",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "CoE_Russia"
+            }
+        ]
+    },
+    {
+        "ID": "11071203",
+        "Name": "Russia's MFA in Crimea",
+        "MainType": "foreign",
+        "SubType": "state",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "PMSimferopol"
+            }
+        ]
+    },
+    {
+        "ID": "11071111203",
+        "Name": "Jackson Hinkle",
+        "MainType": "foreign",
+        "SubType": "influencer",
+        "Place": "Russia",
+        "Channels": [
+            {
+                "Platform": "Twitter",
+                "Handle": "jacksonhinklle"
+            }
+        ]
+    }
+]

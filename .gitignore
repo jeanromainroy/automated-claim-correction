@@ -1,0 +1,12 @@
+.DS_Store
+
+config.py
+
+Data/notes-00000.tsv
+Data/noteStatusHistory-00000.tsv
+
+Analyses/5-claims-embeddings.json
+Analyses/7-database.json
+Analyses/8-cached-requests.json
+Analyses/9-responses.json
+Analyses/10-evaluations.json
